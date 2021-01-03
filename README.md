@@ -5,7 +5,7 @@
 #### I/O examples:
 
 * First example 
-
+![First example](/images/I1.PNG/)
 
 * Second example
-
+![Second example](/images/I2.PNG/)
