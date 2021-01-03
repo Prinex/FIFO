@@ -7,4 +7,4 @@
 * First example 
 
 
-2. Second example
+* Second example
